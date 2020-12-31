@@ -1,0 +1,184 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: fantasy;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'sacramento', cursive;
+  font-size: 5.65rem;
+  color: #096078;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #096078;
+  padding-bottom: 5px;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  margin: 100px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  width: 4%;
+  background-color: white;
+  border-color: #66BFBF;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999e;
+  text-decoration: none;
+  font-family: 'sacramento', cursive;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.top_container {
+  background-color: #66BFBF;
+  padding-top: 100px;
+  line-height: 2;
+  width: 100%;
+}
+
+.mid_container {
+  width: 100%;
+}
+
+.bottom_container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: relative;
+  right: 300px;
+  top: 200px;
+}
+
+.bottom-cloud {
+  position: relative;
+  left: 500px;
+  bottom: 500px;
+}
+
+.mountain1img {
+  height: 350px;
+  width: 450px;
+  position: relative;
+  right: 80px;
+}
+
+.jkimg {
+  height: 190px;
+  width: 190px;
+  padding-top: 10px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.hr_2 {
+  margin: 100px auto;
+}
+
+.span_class {
+  font-weight: normal;
+}
+
+.my_skills_h2 {
+  margin-bottom: 0;
+}
+
+.skill-row {
+  width: 50%;
+
+  margin: 30px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.codingimg {
+  height: 200px;
+  width: 25%;
+  border-radius: 10%;
+  float: left;
+  margin-right: 30px;
+}
+
+.d_d_text {
+  text-align: center;
+}
+
+.mountain_climb {
+  height: 200px;
+  width: 25%;
+  border-radius: 10%;
+  float: right;
+  margin-left: 30px;
+}
+
+.mt_climb_text {
+  text-align: center;
+}
+
+.for_space1 {
+  height: 50px;
+}
+
+.for_space2 {
+  height: 30px;
+}
+
+.contact_intro_text {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'sacramento', cursive;
+  color: #ffffff;
+  font-size: 28px;
+  padding: 6px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #9AB5BC;
+  background-image: -webkit-linear-gradient(top, #9AB5BC, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #9AB5BC, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #9AB5BC, #2bc4ad);
+  background-image: -o-linear-gradient(top, #9AB5BC, #2bc4ad);
+  background-image: linear-gradient(to bottom, #9AB5BC, #2bc4ad);
+  text-decoration: none;
+}
+
+.last_p{
+  color:#eaf6f6;
+  font-size: 0.75rem;
+  padding-top: 10px;
+}
